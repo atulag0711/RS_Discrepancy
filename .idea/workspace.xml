@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3cc7865-6a3b-4cfc-b26b-2b0ec869764f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dfuka3EoQf2DWHLPtDAxaCHtGg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Study_Material/pytorch-tutorial" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3cc7865-6a3b-4cfc-b26b-2b0ec869764f" name="Default Changelist" comment="" />
+      <created>1592828612307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592828612307</updated>
+      <workItem from="1592828614417" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2563" y="491" width="424" height="491" key="FileChooserDialogImpl" timestamp="1592828672818">
+      <screen x="1920" y="0" width="3440" height="1440" />
+    </state>
+    <state x="2563" y="491" width="424" height="491" key="FileChooserDialogImpl/1920.0.3440.1440/0.27.1920.1053@1920.0.3440.1440" timestamp="1592828672818" />
+  </component>
+</project>
